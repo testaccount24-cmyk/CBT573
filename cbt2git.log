@@ -1,0 +1,6 @@
+2025-04-04 12:01:02.482166 - Received CBT.V508.FILE573.PDS from FILE573.XMI 
+2025-04-04 12:01:02.482848 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:01:02.482994 - Found $$NOTE.eml (message/rfc822) in CBT.V508.FILE573.PDS, moved to PDS/$$NOTE
+2025-04-04 12:01:02.483156 - Found @FILE573.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/@FILE573
+2025-04-04 12:01:02.483284 - Found IEFUJV.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/IEFUJV
+2025-04-04 12:01:02.483418 - Found IRAMPF.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/IRAMPF
